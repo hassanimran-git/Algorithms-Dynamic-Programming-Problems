@@ -6,4 +6,4 @@
  - Q2 : O(m x n^2)
 
  - Questions Are included in the "Questions.pdf" file.
- - Solutions have been coded and Explained in detail in the "REPORTS.pdf" file
+ - Solutions have been coded (well commented) and Explained in detail in the "REPORTS.pdf" file
